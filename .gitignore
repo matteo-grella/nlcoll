@@ -1,0 +1,31 @@
+# Lib file
+*.a
+
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+*.cswi
+*.xml
+
+# Binaries
+bin/*
+!bin/README.md
+
+test/bin/*
+!test/bin/README.md
+
+# Object
+obj/*
+!obj/README.md
+
+test/obj/*
+test/data/*
+
+!test/obj/README.md
+!test/data/README.md
+
+# Library
+lib/*
+!lib/README.md
